@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Apply Configured Syntax to Files Without Extension When Opened",
+        "command": "set_no_extension_syntax"
+    },
+    {
+        "caption": "NoExtension: Select Syntax",
+        "command": "select_no_extension_syntax"
+    }
+]
